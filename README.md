@@ -1,5 +1,5 @@
-BY ### [Joana Marie S. Ailes](https://www.facebook.com/joanamarie.ailes.7) and [Veberly B. Barrio](https://www.facebook.com/veberly.barrio17/) ###
-### Information Gathering ###
+ ### [Joana Marie S. Ailes](https://www.facebook.com/joanamarie.ailes.7) and [Veberly B. Barrio](https://www.facebook.com/veberly.barrio17/) ###
+## Information Gathering ##
 _*Information gathering*_ is a systematic approach to collecting, organizing, and analyzing data that incorporates planning, quality control, and stakeholder involvement, and it's fundamental for informed decision-making and comprehensive research.
 * Amass
   * This package contains a tool to help information security professionals perform network mapping of attack surfaces and perform external asset discovery using open source information gathering and active reconnaissance techniques.(https://www.youtube.com/watch?v=Ey_qfk-yAlY)
